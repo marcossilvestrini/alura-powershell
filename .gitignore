@@ -2,19 +2,3 @@
 **/.vscode
 **/.log
 **/.vagrant
-
-#security
-**/authorized_keys
-**/*.pub
-**/*.ppk
-**/rhel-subscription
-
-#erp
-**/provisioning/**/*.rpo
-**/provisioning/**/*.zip*
-**/provisioning/**/*.tar.gz*
-
-# rules postgresql
-**/*.retry
-**/*/__pycache__
-**/*.pyc
